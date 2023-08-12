@@ -1,0 +1,195 @@
+CRITICAL - 2023-08-12 13:47:21 --> syntax error, unexpected variable "$routes"
+in APPPATH\Config\Routes.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(800): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(447): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-12 14:36:08 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\MPersegiPanjang.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(314): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\belajarci\\app\\Models\\MPersegipanjang.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MPersegipanjang')
+ 4 APPPATH\Controllers\Persegipanjang.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MPersegipanjang')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Persegipanjang->hasil()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Persegipanjang))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-12 14:38:03 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\MPersegiPanjang.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(314): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\belajarci\\app\\Models\\MPersegipanjang.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MPersegipanjang')
+ 4 APPPATH\Controllers\Persegipanjang.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MPersegipanjang')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Persegipanjang->hasil()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Persegipanjang))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-12 14:39:21 --> Class "App\Models\Model" not found
+in APPPATH\Models\MPersegiPanjang.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(314): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\belajarci\\app\\Models\\MPersegipanjang.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MPersegipanjang')
+ 4 APPPATH\Controllers\Persegipanjang.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MPersegipanjang')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Persegipanjang->hasil()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Persegipanjang))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-12 14:41:07 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\MPersegiPanjang.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(314): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\belajarci\\app\\Models\\MPersegiPanjang.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MPersegiPanjang')
+ 4 APPPATH\Controllers\Persegipanjang.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MPersegiPanjang')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Persegipanjang->hasil()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Persegipanjang))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-12 14:41:10 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\MPersegiPanjang.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(314): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\belajarci\\app\\Models\\MPersegiPanjang.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MPersegiPanjang')
+ 4 APPPATH\Controllers\Persegipanjang.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MPersegiPanjang')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Persegipanjang->hasil()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Persegipanjang))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-12 14:43:36 --> Undefined variable $persegiPanjang
+in APPPATH\Views\PersegiPanjang\hasil.php on line 7.
+ 1 APPPATH\Views\PersegiPanjang\hasil.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $persegiPanjang', 'C:\\xampp\\htdocs\\belajarci\\app\\Views\\PersegiPanjang\\hasil.php', 7)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\belajarci\\app\\Views\\PersegiPanjang\\hasil.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PersegiPanjang/hasil', [], true)
+ 5 APPPATH\Controllers\Persegipanjang.php(22): view('PersegiPanjang/hasil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Persegipanjang->hasil()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Persegipanjang))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-12 14:44:39 --> Class "Codeigniter\model" not found
+in APPPATH\Models\MPersegiPanjang.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(314): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\belajarci\\app\\Models\\MPersegiPanjang.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MPersegiPanjang')
+ 4 APPPATH\Controllers\Persegipanjang.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MPersegiPanjang')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Persegipanjang->hasil()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Persegipanjang))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-12 14:46:04 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\MPersegiPanjang.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(314): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\belajarci\\app\\Models\\MPersegiPanjang.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MPersegiPanjang')
+ 4 APPPATH\Controllers\Persegipanjang.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MPersegiPanjang')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Persegipanjang->hasil()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Persegipanjang))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-12 14:47:05 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\MPersegiPanjang.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(314): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\belajarci\\app\\Models\\MPersegiPanjang.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MPersegiPanjang')
+ 4 APPPATH\Controllers\Persegipanjang.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MPersegiPanjang')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Persegipanjang->hasil()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Persegipanjang))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-12 14:49:27 --> Undefined variable $persegiPanjang
+in APPPATH\Views\PersegiPanjang\hasil.php on line 7.
+ 1 APPPATH\Views\PersegiPanjang\hasil.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $persegiPanjang', 'C:\\xampp\\htdocs\\belajarci\\app\\Views\\PersegiPanjang\\hasil.php', 7)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\belajarci\\app\\Views\\PersegiPanjang\\hasil.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PersegiPanjang/hasil', [], true)
+ 5 APPPATH\Controllers\Persegipanjang.php(22): view('PersegiPanjang/hasil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Persegipanjang->hasil()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Persegipanjang))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-12 14:50:41 --> Undefined variable $persegiPanjang
+in APPPATH\Views\PersegiPanjang\hasil.php on line 7.
+ 1 APPPATH\Views\PersegiPanjang\hasil.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $persegiPanjang', 'C:\\xampp\\htdocs\\belajarci\\app\\Views\\PersegiPanjang\\hasil.php', 7)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\belajarci\\app\\Views\\PersegiPanjang\\hasil.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PersegiPanjang/hasil', [], true)
+ 5 APPPATH\Controllers\Persegipanjang.php(22): view('PersegiPanjang/hasil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Persegipanjang->hasil()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Persegipanjang))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-12 14:50:53 --> Undefined variable $persegiPanjang
+in APPPATH\Views\PersegiPanjang\hasil.php on line 7.
+ 1 APPPATH\Views\PersegiPanjang\hasil.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $persegiPanjang', 'C:\\xampp\\htdocs\\belajarci\\app\\Views\\PersegiPanjang\\hasil.php', 7)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\belajarci\\app\\Views\\PersegiPanjang\\hasil.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PersegiPanjang/hasil', [], true)
+ 5 APPPATH\Controllers\Persegipanjang.php(22): view('PersegiPanjang/hasil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Persegipanjang->hasil()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Persegipanjang))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-12 14:53:27 --> Undefined variable $persegiPanjang
+in APPPATH\Views\PersegiPanjang\hasil.php on line 7.
+ 1 APPPATH\Views\PersegiPanjang\hasil.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $persegiPanjang', 'C:\\xampp\\htdocs\\belajarci\\app\\Views\\PersegiPanjang\\hasil.php', 7)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\belajarci\\app\\Views\\PersegiPanjang\\hasil.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PersegiPanjang/hasil', [], true)
+ 5 APPPATH\Controllers\Persegipanjang.php(22): view('PersegiPanjang/hasil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Persegipanjang->hasil()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Persegipanjang))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-12 15:23:53 --> Invalid file: "persegitiga/form_segitiga.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('persegitiga/form_segitiga.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('persegitiga/form_segitiga', [], true)
+ 3 APPPATH\Controllers\Persegitiga.php(12): view('persegitiga/form_segitiga')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Persegitiga->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Persegitiga))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-12 15:23:57 --> Invalid file: "persegitiga/form_segitiga.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('persegitiga/form_segitiga.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('persegitiga/form_segitiga', [], true)
+ 3 APPPATH\Controllers\Persegitiga.php(12): view('persegitiga/form_segitiga')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Persegitiga->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Persegitiga))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-12 15:24:08 --> Invalid file: "persegitiga/form_segitiga.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('persegitiga/form_segitiga.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('persegitiga/form_segitiga', [], true)
+ 3 APPPATH\Controllers\Persegitiga.php(12): view('persegitiga/form_segitiga')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Persegitiga->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Persegitiga))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-12 15:24:20 --> Invalid file: "Persegitiga/form_segitiga.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Persegitiga/form_segitiga.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Persegitiga/form_segitiga', [], true)
+ 3 APPPATH\Controllers\Persegitiga.php(12): view('Persegitiga/form_segitiga')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Persegitiga->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Persegitiga))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-12 15:24:26 --> Invalid file: "Persegitiga/form_segitiga.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Persegitiga/form_segitiga.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Persegitiga/form_segitiga', [], true)
+ 3 APPPATH\Controllers\Persegitiga.php(12): view('Persegitiga/form_segitiga')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Persegitiga->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Persegitiga))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-12 15:27:17 --> Invalid file: "segitiga/hasil.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('segitiga/hasil.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('segitiga/hasil', [], true)
+ 3 APPPATH\Controllers\Persegitiga.php(29): view('segitiga/hasil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Persegitiga->hitung()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Persegitiga))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
